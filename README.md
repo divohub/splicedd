@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/ascpixi/splicedd/releases/"><code>click here to download the latest windows release!</code></a>
-  <a href="https://github.com/divohub/splicedd/releases/tag/mac"><code>click here to download the latest mac os release!</code></a>
+  <a href="https://github.com/divohub/splicedd/releases"><code>click here to download the latest mac os release!</code></a>
   <br><br>
   <img src="./etc/screenshot.png">
 </p>
